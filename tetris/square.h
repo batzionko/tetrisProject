@@ -8,6 +8,7 @@ const int S_SIZE = 27;
 const float POS_X = 148.5, POS_Y = 40.5;
 class square
 {
+
 public:
 	square();
 	~square();
