@@ -2,6 +2,7 @@
 #include <experimental/vector>
 
 
+
 Board::Board(sf::Vector2f pos) :
 	m_fullRow(0),m_posScreen(pos)
 {
